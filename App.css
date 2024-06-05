@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+.App {
+    text-align: center;
+}
+
+.nomedacidade {
+    width: 170px;
+    height: 25px;
+    text-align: center;
+    background-color: lightgray;
+    border: none;
+    margin: 20px;
+}
+
+.obter {
+    width: 170px;
+    height: 25px;
+    text-align: center; 
+    color: white;
+    background-color:cornflowerblue;
+    border: none;
+    cursor: pointer;
+}
